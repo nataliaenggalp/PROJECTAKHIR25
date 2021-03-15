@@ -1,0 +1,285 @@
+#template{
+	width: auto;
+	height: auto;
+	border:0px solid #000;
+	background: #f4f4ff;
+}
+#konten{
+	width: 74%;
+	min-height: 900px;
+	border-top:1px solid #ececec;
+	border-right:5px solid #ececec;
+	border-left:5px solid #ececec;
+	border-bottom:1px solid #ececec;
+	margin-top: 0px;
+	margin-left: 13%;
+	margin-right: 13%;
+	background: #ffffff;
+}
+
+
+#title{
+	margin-bottom: 2px;
+}
+#menu{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	padding: 5px 5px; 
+	border:1px solid #000;
+}
+#login{
+	margin-top: 10px;
+	margin-bottom: 30px;
+	margin-right: 5px;
+	float: right;
+	border: 0px solid #000;
+}
+
+
+#login ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#login li {
+    float: left;
+}
+
+#login a {
+    display: block;
+       
+    float:right;
+  height:30px;
+  margin-right:8px!important;
+  margin-top:0px;
+  margin-bottom:4px;
+  padding:2px 2px;
+  width:auto;
+  border:2px solid #666;
+  border-radius:6px;
+ 
+
+	background-color: #334099;
+	/* background-color: #1f1e1e; */
+	font-weight: bold;
+	color: #f6f7fb;  
+}
+
+#header{
+	margin-bottom: 0px;
+	border: 0px solid #000;
+	
+}
+
+#deskripsi{
+	float: left;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+		width: 65%;
+		height: auto;
+		border:0px solid #000;
+		background-color: #ffffff;
+}
+
+#deskripsipilihlogin{
+	float: left;
+		margin-top: 10px;
+		margin-bottom: 10px;
+		margin-left: 30%;
+		margin-right: 10px;
+		width: 70%;
+		height: auto;
+		border:0px solid #000;
+		background-color: #ffffff;
+}
+
+#deskripsipilihlogin h6 {
+    display: block;
+       
+    float:left;
+  height:35px;
+  margin-right:8px!important;
+  margin-top:20px;
+  margin-bottom:4px;
+  padding:2px 2px;
+  width:auto;
+  border:2px solid #666;
+  border-radius:20px;
+ 
+
+	background-color: #a9a9a9;
+	/* background-color: #1f1e1e; */
+	font-weight: bold;
+	font-size: 20px;
+	color: #f6f7fb;  
+}
+
+
+
+
+#deskripsi h6{
+		margin-top: 50px;
+		margin-bottom: 10px;
+		margin-left: 10px;
+		width: 80%;
+		border-radius: 6px;
+		height: auto;
+		border:1px solid #000;
+		background-color: #ffffff;
+}
+
+
+
+
+
+#register{
+	float: right;
+		margin-right: 5px;
+		margin-top: 5px;
+		width: 30%;
+		height: auto;
+		border:2px solid #ececec;
+		border-radius: 9px;
+		background-color: #a9a9a9;
+	
+
+}
+
+#register h4{
+			
+	margin-left: 10px;
+	margin-right: 5px;
+	margin-bottom: 0px;
+	
+}
+
+#register img{
+
+	width: 30px;
+	height: 30px;
+
+
+}
+#register h5{
+	border:1px solid #fff;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 5px;
+	border-radius: 9px;
+	background-color: #fff;
+
+}
+
+#register p{
+	border-bottom:1px solid #000;
+	margin-left: 4px;
+	margin-top: 4px;
+	margin-right: 4px;
+}
+
+#footer{
+	height: auto;
+	width: 74%;
+	border: 0px solid #000000;
+	background-color: #cccccc;
+	margin-left: 13%;
+	margin-right: 13%;	
+	margin-top: 0px;
+
+}
+
+#menu {
+	 background:#707070;
+	 height: 40px;
+}
+
+#menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#menu li {
+    float: left;
+}
+
+#menu a {
+    display: block;
+       
+    float:right;
+  height:30px;
+  margin-right:8px!important;
+  margin-top:0px;
+  margin-bottom:4px;
+  padding:2px 2px;
+  width:auto;
+  border:2px solid #666;
+  border-radius:6px;
+ 
+
+	background-color: #a9a9a9;
+	/* background-color: #1f1e1e; */
+	font-weight: bold;
+	color: #f6f7fb;  
+}
+
+
+
+
+
+textarea.text{
+	padding-top: 5px;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #a1a1a1;
+	border-radius: 5px;
+	background-color: transparent;
+	font-weight: bold;
+	color: #f6f7fb;	
+}
+input.text{
+	width: auto;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	border: 1px solid #a1a1a1;
+	background-color: transparent;
+	border-radius: 5px;
+	font-weight: bold;
+	color: #f6f7fb;	
+}
+button.submit{
+	margin-top: 10px;
+	margin-bottom: 5px;
+	border: 1px solid #a1a1a1;
+	background-color: #1f1e1e;
+	padding: 10px 10px;
+	border-radius: 25px;
+	font-weight: bold;
+	color: #f6f7fb;	
+}
+button.login{
+	margin-right: 5px;
+	border: 1px solid #a1a1a1;
+	border-radius: 6px;
+	background-color: #1f1e1e;
+	font-weight: bold;
+	color: #f6f7fb;	
+}
+
+
+
+img.icon {
+
+	width: 15px;
+	height: 15px;
+}
+
+img.header {
+	width: 85%;
+	height: 200px;
+
+}
